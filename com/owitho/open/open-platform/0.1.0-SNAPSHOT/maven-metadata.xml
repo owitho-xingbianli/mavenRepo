@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.owitho.open</groupId>
+  <artifactId>open-platform</artifactId>
+  <version>0.1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180525.111150</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180525111150</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.0-20180525.111150-1</value>
+        <updated>20180525111150</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
