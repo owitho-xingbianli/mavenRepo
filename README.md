@@ -7,8 +7,8 @@ add this config to your pom
 ```xml
 <repositories>
     <repository>
-    <id>owitho-maven-repo</id>
-    <url>https://raw.githubusercontent.com/owitho-xingbianli/mavenRepo/master/</url>
+		<id>owitho-maven-repo</id>
+		<url>https://raw.githubusercontent.com/owitho-xingbianli/mavenRepo/master/</url>
     </repository>
 </repositories>
 
